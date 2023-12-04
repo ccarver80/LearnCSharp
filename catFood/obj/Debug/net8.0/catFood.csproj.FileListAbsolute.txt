@@ -1,0 +1,15 @@
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/catFood.GeneratedMSBuildEditorConfig.editorconfig
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/catFood.AssemblyInfoInputs.cache
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/catFood.AssemblyInfo.cs
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/catFood.csproj.CoreCompileInputs.cache
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/catFood.sourcelink.json
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/bin/Debug/net8.0/catFood
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/bin/Debug/net8.0/catFood.deps.json
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/bin/Debug/net8.0/catFood.runtimeconfig.json
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/bin/Debug/net8.0/catFood.dll
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/bin/Debug/net8.0/catFood.pdb
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/catFood.dll
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/refint/catFood.dll
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/catFood.pdb
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/catFood.genruntimeconfig.cache
+/home/ccarver80/Desktop/Github/LearnCSharp/catFood/obj/Debug/net8.0/ref/catFood.dll
