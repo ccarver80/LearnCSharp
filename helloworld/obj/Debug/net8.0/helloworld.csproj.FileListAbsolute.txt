@@ -1,0 +1,14 @@
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/bin/Debug/net8.0/helloworld
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/bin/Debug/net8.0/helloworld.dll
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/bin/Debug/net8.0/helloworld.pdb
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/obj/Debug/net8.0/helloworld.dll
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/obj/Debug/net8.0/helloworld.pdb
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/home/ccarver80/Desktop/Github/LearnCSharp/helloworld/obj/Debug/net8.0/ref/helloworld.dll
